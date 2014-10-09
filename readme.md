@@ -28,9 +28,9 @@ Getting Started
 To get started with ParanoidAndroid, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the ParanoidAndroid trees, use a command like this:
+To initialize your local repository for HTC One X using the ParanoidAndroid trees, use a command like this:
 
-    repo init -u git://github.com/AOSPA-legacy/manifest.git -b kitkat
+    repo init -u https://github.com/nerull7/android_manifest_hox.git -b kitkat
 
 Then to sync up:
 
